@@ -59,7 +59,7 @@ Ask questions or share product feedback in our [Azure AI Foundry Developer Forum
 
 ## 🚀 Building a Startup?
 
-Sign up for [Microsoft for Startups Founders Hub](https://aka.ms/genai-foundershub?WT.mc_id=academic-105485-koreyst) to receive **free OpenAI credits** and up to **$150k towards Azure credits to access OpenAI models through Azure OpenAI Services**.
+Visit [Microsoft for Startups](https://www.microsoft.com/startups) to find out how to get started building with Azure credits today.
 
 ## 🙏 Want to help?
 
@@ -113,6 +113,7 @@ Our team produces other courses! Check out:
 - [AI Agents for Beginners](https://github.com/microsoft/ai-agents-for-beginners?WT.mc_id=academic-105485-koreyst)
 - [Generative AI for Beginners using .NET](https://github.com/microsoft/Generative-AI-for-beginners-dotnet?WT.mc_id=academic-105485-koreyst)
 - [Generative AI for Beginners using JavaScript](https://aka.ms/genai-js-course?WT.mc_id=academic-105485-koreyst)
+- [Generative AI for Beginners using Java](https://aka.ms/genaijava?WT.mc_id=academic-105485-koreyst)
 - [ML for Beginners](https://aka.ms/ml-beginners?WT.mc_id=academic-105485-koreyst)
 - [Data Science for Beginners](https://aka.ms/datascience-beginners?WT.mc_id=academic-105485-koreyst)
 - [AI for Beginners](https://aka.ms/ai-beginners?WT.mc_id=academic-105485-koreyst)
